@@ -1,5 +1,6 @@
-# Link to Project Storymap at arcgis.com
-### (https://storymaps.arcgis.com/stories/8fd35121b4e449619a8db7b77597b5c0)
+# Habitat Overlap Analysis of Grouse in Box Elder County UT
+### Link to Project Storymap at arcgis.com
+#### (https://storymaps.arcgis.com/stories/8fd35121b4e449619a8db7b77597b5c0)
  
 ## Data Citations:
 #### Land Cover Data - SWReGAP. Swregap.org, swregap.org/data/landcover/.
